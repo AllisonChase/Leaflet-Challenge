@@ -1,6 +1,8 @@
 # Leaflet-Challenge
 Module 15 Challenge Assignment
 
+Homework completed with assistance of Xpert Assistant and Office Hours
+
 Instructions
 The instructions for this activity are broken into two parts:
 
